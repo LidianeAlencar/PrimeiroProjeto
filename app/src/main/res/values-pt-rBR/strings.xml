@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sua_altura">Sua Altura</string>
+    <string name="seu_peso">Seu Peso</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="label_titulo">Calculadora</string>
+</resources>
